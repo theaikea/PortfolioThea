@@ -2,13 +2,13 @@
     {
         "id": "rabalder",
         "titleText": "Designing a visual identity for a guitarstore",
-        "descriptionText": "For my first semester exam at DMJX, I created a visual identity, an interactive asset generator, and an animated logo for a fictional guitar store called Rabalder.",
+        "descriptionText": "For my first semester exam at DMJX, I created a visual identity, an interactive asset generator, and an animated logo for a fictional guitar store called Rabalder inspired by the song 'Rabalderstræde' by the famous danish band Gasolin.",
         "titleImage": "/media/musikinstrumenterbutik_rabalder.png",
         "Image2": "/media/rabalderIdentitet.png",
-        "description2Text": "Here I have animated the logo using Processing.",
+        "description2Text": "The logo is brought to life using Processing, reflecting Rabalder's identity as a guitar store that values experimentation, playfulness, and curiosity.",
         "video3": "/media/Animeret_Navnetræk_CD.mp4",
         "video5": "/media/rabalderAssetGenrator.mp4",
-        "description3Text": "This is an asset generator created in Processing. It produces posters using sound input. Users can adjust both text and colors, making it easy to customize to fit different events.",
+        "description3Text": "This is an asset generator created in Processing. It produces posters using sound input. Users can also adjust both text and colors, making it easy to customize to fit different events.",
         "image4":"/media/rabalderMockups.png",
         "image6":"/media/striber.jpg"
 
